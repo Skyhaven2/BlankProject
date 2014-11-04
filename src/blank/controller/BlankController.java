@@ -9,6 +9,7 @@ public class BlankController
 	
 	public void start()
 	{
+		
 		String result = "";
 		JOptionPane.showMessageDialog(null, "hi");
 		
